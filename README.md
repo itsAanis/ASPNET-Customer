@@ -54,7 +54,7 @@ const apiBaseUrl = 'https://localhost:7208/customers';
 - The front-end provides a simple interface to manage customers.
 - Use the provided forms to add, update, and delete customers.
 - The customer list will be dynamically updated as you interact with the API.
-- Technologies Used
+### Technologies Used
 - ASP.NET Core
 - Entity Framework Core
 - Razor Pages
